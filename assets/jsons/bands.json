@@ -1,0 +1,14 @@
+{
+    "band1": {
+        "url": "https://www.youtube.com/channel/UCCZGYab5SpD0I7Z5JqJZgww",
+        "name": "My Chemical Romance",
+        "mini": "../images/MyChemicalRomance.png",
+        "description": "My Chemical Romance is considered one of the greatest alternative rock bands of the 2000s. Formed in Jersey City, New Jersey in 2001."
+    },
+    "band2": {
+        "url": "https://www.youtube.com/channel/UC5MWh1k90KULpPOeXAzoIZA",
+        "name": "Motionless In White",
+        "mini": "../images/MotionlessInWhite.jpg",
+        "description": "Chris Motionless - Vocals, Ricky Horror - Guitar, Ryan Sitkowski - Guitar, Vinny Mauro - Drums, Justin Morrow - Bass"
+    }
+}

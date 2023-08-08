@@ -1,0 +1,44 @@
+{
+    "album1": {
+        "url": "https://www.youtube.com/watch?v=93C6_X49ZoI&list=PLYEc74fQJpc7-5duyhOA91PXhuC_CuYHP&ab_channel=MyChemicalRomance",
+        "title": "Conventional Weapons",
+        "band": "My Chemical Romance",
+        "mini": "../images/ConventionalWeapons.jpg"
+    },
+    "song2": {
+        "url": "https://www.youtube.com/watch?v=mohsxZW6cbI&list=PLLpmTgb4eP7vgngKfcXoKUqo9BAjyH4OX&ab_channel=MotionlessInWhite-Topic",
+        "title": "Disguise",
+        "band": "Motionless In White",
+        "mini": "../images/Disguise.jpg"
+    },
+    "song3": {
+        "url": "https://www.youtube.com/watch?v=J6xdYipWIGk&list=PLZSpx1qgL046DjWfQqL6nqNrIklOnYIlP&ab_channel=MotionlessInWhite-Topic",
+        "title": "Graveyard Shift",
+        "band": "Motionless In White",
+        "mini": "../images/GraveyardShift.jpg"
+    },
+    "song4": {
+        "url": "https://www.youtube.com/watch?v=wum629s8SNg&list=PL6vwnon3sINoa5JOW9lqU0j7VY8Iv76XH&ab_channel=MyChemicalRomance-Topic",
+        "title": "I Brought You Bullets You Brought Me Your Love",
+        "band": "My Chemical Romance",
+        "mini": "../images/IBroughtYouBulletsYouBroughtMeYourLove.jpg"
+    },
+    "song5": {
+        "url": "https://www.youtube.com/watch?v=iMqza_DuivM&list=PLS4jAfE9d3aIYs7RAuBTYRKQH84uW0GC2&ab_channel=MotionlessInWhite-Topic",
+        "title": "Scoring the End of the World",
+        "band": "Motionless In White",
+        "mini": "../images/ScoringtheEndoftheWorld.jpg"
+    },
+    "song6": {
+        "url": "https://www.youtube.com/watch?v=wpJYQf5uJ4w&list=PLUhYAiEwD-whqQ2Ak4wBJxO6WnS15l8AN&ab_channel=MyChemicalRomance-Topic",
+        "title": "The Black Parade",
+        "band": "My Chemical Romance",
+        "mini": "../images/TheBlackParade.jpg"
+    },
+    "song7": {
+        "url": "https://www.youtube.com/watch?v=a_1tA0bpDQs&list=PLhkQufqK5FnhqWLd6IymVNsWoMunFN4Y1&ab_channel=MyChemicalRomance-Topic",
+        "title": "Three Cheers for Sweet Revenge",
+        "band": "My Chemical Romance",
+        "mini": "../images/ThreeCheersforSweetRevenge.jpg"
+    }
+}
