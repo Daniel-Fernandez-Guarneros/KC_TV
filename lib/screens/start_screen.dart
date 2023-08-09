@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kc_tv_app/widgets/suggestion_card.dart';
 
 class StartScreen extends StatefulWidget {
   const StartScreen({super.key});
@@ -12,6 +13,10 @@ class _StartScreenState extends State<StartScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        leading: Padding(
+          padding: const EdgeInsets.all(2.0),
+          child: Image.asset('assets/images/icon.png'),
+        ),
         title: Text(
           'KC TV',
           style: Theme.of(context).textTheme.headlineLarge,
@@ -22,9 +27,10 @@ class _StartScreenState extends State<StartScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Tarjetas de recomendaciones',
-              style: Theme.of(context).textTheme.bodyMedium,
-            )
+              'Recomendado para ti',
+              style: Theme.of(context).textTheme.headlineLarge,
+            ),
+            const SuggestionCard(),
           ],
         ),
       ),
@@ -33,20 +39,20 @@ class _StartScreenState extends State<StartScreen> {
           BottomNavigationBarItem(
             icon: Icon(Icons.music_video),
             label: 'Canciones',
-            backgroundColor: Color.fromARGB(255, 179, 16, 4),
+            backgroundColor: Colors.white,
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.album),
             label: 'Albumes',
-            backgroundColor: Color.fromARGB(255, 179, 16, 4),
+            backgroundColor: Colors.white,
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.music_note),
             label: 'Bandas',
-            backgroundColor: Color.fromARGB(255, 179, 16, 4),
+            backgroundColor: Colors.white,
           ),
         ],
-        backgroundColor: Colors.amber,
+        backgroundColor: const Color.fromARGB(255, 228, 21, 7),
         onTap: null,
       ),
     );

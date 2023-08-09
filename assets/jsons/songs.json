@@ -3,15 +3,15 @@
         "url": "https://www.youtube.com/watch?v=Sfmzkj5QSto&ab_channel=MyChemicalRomance",
         "title": "The World Is Ugly",
         "band": "My Chemical Romance",
-        "mini": "../images/ConventionalWeapons.jpg",
+        "mini": "assets/images/ConventionalWeapons.jpg",
         "duration": "5:01",
-        "description": "My Chemical Romance - The World Is Ugly"
+        "description": "My Chemical Romance's official video for The World Is Ugly"
     },
     "song2": {
         "url": "https://www.youtube.com/watch?v=yPe180bxVuE&ab_channel=MotionlessInWhite",
         "title": "Thoughts & Prayers",
         "band": "Motionless In White",
-        "mini": "../images/Disguise.jpg",
+        "mini": "assets/images/Disguise.jpg",
         "duration": "4:15",
         "description": "Motionless In White's official video for 'Thoughts & Prayers' from the record, Disguise - available now on Roadrunner Records."
     },
@@ -19,7 +19,7 @@
         "url": "https://www.youtube.com/watch?v=B3faYe5V4Sk&ab_channel=MotionlessInWhite",
         "title": "Voices",
         "band": "Motionless In White",
-        "mini": "../images/GraveyardShift.jpg",
+        "mini": "assets/images/GraveyardShift.jpg",
         "duration": "3:42",
         "description": "Motionless In White's official video for 'Voices' from the new record Graveyard Shift - available now on Roadrunner Records."
     },
@@ -27,15 +27,15 @@
         "url": "https://www.youtube.com/watch?v=GaLaMd_EAo4&ab_channel=MyChemicalRomance-Topic",
         "title": "Demolition Lovers",
         "band": "My Chemical Romance",
-        "mini": "../images/IBroughtYouBulletsYouBroughtMeYourLove.jpg",
+        "mini": "assets/images/IBroughtYouBulletsYouBroughtMeYourLove.jpg",
         "duration": "6:06",
-        "description": "Demolition Lovers · My Chemical Romance"
+        "description": "My Chemical Romance's official video for The World Is Ugly"
     },
     "song5": {
         "url": "https://www.youtube.com/watch?v=YmjQVRtxS4E&ab_channel=MotionlessInWhite",
         "title": "Cyberhex",
         "band": "Motionless In White",
-        "mini": "../images/ScoringtheEndoftheWorld.jpg",
+        "mini": "assets/images/ScoringtheEndoftheWorld.jpg",
         "duration": "4:40",
         "description": "Motionless In White's official video for 'Cyberhex' - available now on Roadrunner Records."
     },
@@ -43,7 +43,7 @@
         "url": "https://www.youtube.com/watch?v=73Y_x30uKQg&ab_channel=MyChemicalRomance",
         "title": "The Sharpest Lives",
         "band": "My Chemical Romance",
-        "mini": "../images/TheBlackParade.jpg",
+        "mini": "assets/images/TheBlackParade.jpg",
         "duration": "3:20",
         "description": "We, the members of MCR, dedicate this release to the memory of Craig Aaronson, our friend, our relentless champion, our A&R man. He was appreciated, he was loved, he will be forever missed."
     },
@@ -51,8 +51,8 @@
         "url": "https://www.youtube.com/watch?v=ShQdOf2zAzc&ab_channel=MyChemicalRomance-Topic",
         "title": "You Know What They Do to Guys Like Us in Prison",
         "band": "My Chemical Romance",
-        "mini": "../images/ThreeCheersforSweetRevenge.jpg",
+        "mini": "assets/images/ThreeCheersforSweetRevenge.jpg",
         "duration": "2:53",
-        "description": "You Know What They Do to Guys Like Us in Prison · My Chemical Romance"
+        "description": "My Chemical Romance's official video for You Know What They Do to Guys Like Us in Prison"
     }
 }
