@@ -20,7 +20,7 @@ class SuggestionCard extends StatelessWidget {
               width: 500,
               height: 80,
               child: Text(
-                'Demolition Lovers',
+                'The World Is Ugly',
                 style: Theme.of(context).textTheme.headlineLarge,
               ),
             ),
