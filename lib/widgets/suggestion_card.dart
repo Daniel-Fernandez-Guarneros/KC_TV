@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kc_tv_app/screens/player_screen.dart';
 
 class SuggestionCard extends StatelessWidget {
   const SuggestionCard({super.key});
@@ -10,8 +11,19 @@ class SuggestionCard extends StatelessWidget {
       children: [
         ClipRRect(
           borderRadius: BorderRadius.circular(40),
-          child: const Image(
-              image: AssetImage('assets/images/ConventionalWeapons.jpg')),
+          child: GestureDetector(
+            onTap: () {
+              Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => const PlayerScreen(
+                          url:
+                              "https://www.youtube.com/watch?v=Sfmzkj5QSto&ab_channel=MyChemicalRomance")));
+            },
+            child: const Image(
+              image: AssetImage('assets/images/ConventionalWeapons.jpg'),
+            ),
+          ),
         ),
         const SizedBox(width: 20.0),
         Column(
