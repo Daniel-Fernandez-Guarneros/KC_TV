@@ -1,48 +1,48 @@
 {
     "album1": {
-        "url": "https://www.youtube.com/watch?v=93C6_X49ZoI&list=PLYEc74fQJpc7-5duyhOA91PXhuC_CuYHP&ab_channel=MyChemicalRomance",
+        "url": "https://www.youtube.com/watch?v=cjzL6vmnmqY&ab_channel=LifebloodTV",
         "title": "Conventional Weapons",
         "band": "My Chemical Romance",
         "mini": "assets/images/ConventionalWeapons.jpg",
         "date_of_creation": "30 de Octubre de 2012"
     },
     "album2": {
-        "url": "https://www.youtube.com/watch?v=mohsxZW6cbI&list=PLLpmTgb4eP7vgngKfcXoKUqo9BAjyH4OX&ab_channel=MotionlessInWhite-Topic",
+        "url": "https://www.youtube.com/watch?v=hlREynPDfb4&ab_channel=RockSolidRecords",
         "title": "Disguise",
         "band": "Motionless In White",
         "mini": "assets/images/Disguise.jpg",
         "date_of_creation": "7 de Junio de 2019"
     },
     "album3": {
-        "url": "https://www.youtube.com/watch?v=J6xdYipWIGk&list=PLZSpx1qgL046DjWfQqL6nqNrIklOnYIlP&ab_channel=MotionlessInWhite-Topic",
+        "url": "https://www.youtube.com/watch?v=SL8EMAGpD0k&ab_channel=RockSolidRecords",
         "title": "Graveyard Shift",
         "band": "Motionless In White",
         "mini": "assets/images/GraveyardShift.jpg",
         "date_of_creation": "5 de Mayo de 2017"
     },
     "album4": {
-        "url": "https://www.youtube.com/watch?v=wum629s8SNg&list=PL6vwnon3sINoa5JOW9lqU0j7VY8Iv76XH&ab_channel=MyChemicalRomance-Topic",
+        "url": "https://www.youtube.com/watch?v=b_k2toCYM9A&ab_channel=MCR",
         "title": "I Brought You Bullets You Brought Me Your Love",
         "band": "My Chemical Romance",
         "mini": "assets/images/IBroughtYouBulletsYouBroughtMeYourLove.jpg",
         "date_of_creation": "23 de Julio de 2002"
     },
     "album5": {
-        "url": "https://www.youtube.com/watch?v=iMqza_DuivM&list=PLS4jAfE9d3aIYs7RAuBTYRKQH84uW0GC2&ab_channel=MotionlessInWhite-Topic",
+        "url": "https://www.youtube.com/watch?v=A7t1y0v8e0k&ab_channel=LuReX%F0%9F%85%A5",
         "title": "Scoring the End of the World",
         "band": "Motionless In White",
         "mini": "assets/images/ScoringtheEndoftheWorld.jpg",
         "date_of_creation": "10 de Junio de 2022"
     },
     "album6": {
-        "url": "https://www.youtube.com/watch?v=wpJYQf5uJ4w&list=PLUhYAiEwD-whqQ2Ak4wBJxO6WnS15l8AN&ab_channel=MyChemicalRomance-Topic",
+        "url": "https://www.youtube.com/watch?v=3D0K9QOyN2w&ab_channel=Vin%C3%ADciusOliveira",
         "title": "The Black Parade",
         "band": "My Chemical Romance",
         "mini": "assets/images/TheBlackParade.jpg",
         "date_of_creation": "23 de Octubre de 2006"
     },
     "album7": {
-        "url": "https://www.youtube.com/watch?v=a_1tA0bpDQs&list=PLhkQufqK5FnhqWLd6IymVNsWoMunFN4Y1&ab_channel=MyChemicalRomance-Topic",
+        "url": "https://www.youtube.com/watch?v=vbxyvGB-Eu0&t=3s&ab_channel=DailyVinyl",
         "title": "Three Cheers for Sweet Revenge",
         "band": "My Chemical Romance",
         "mini": "assets/images/ThreeCheersforSweetRevenge.jpg",
